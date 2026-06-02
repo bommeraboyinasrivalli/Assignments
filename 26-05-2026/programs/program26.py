@@ -1,0 +1,10 @@
+#Write a Python Program to Make a Simple Calculator with 4 basic mathematical operations.
+
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+print("Addition =", a + b)
+print("Subtraction =", a - b)
+print("Multiplication =", a * b)
+print("Division =", a / b)
